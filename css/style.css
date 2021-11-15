@@ -162,24 +162,7 @@ footer{
     margin-top: -40px;
     clear: both;
 }
-.upperContent{
-    background-color: red;
-    align-content: center;
-    justify-content: space-around;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-.smallContentBox{
-    background-color: rebeccapurple;
-    min-height: 300px;
-    min-width: 380px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    margin: 15px;
-}
+
 @media screen and (max-width: 800px) {
     .menuIcon {
         height: 100%;
